@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Micah/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.9.0/ecc5cf9c221d55481163e773b24336db149e51/javapoet-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00ecc5cf9c221d55481163e773b24336db149e51">
+        <dex dex="/Users/Micah/AndroidStudioProjects/ProfanityBot/app/build/intermediates/pre-dexed/debug/javapoet-1.9.0_38a44f761d7dfecd56d74fc2dfb8fbb7a04b7d0c.jar" />
+    </item>
+
+</items>
